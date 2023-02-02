@@ -32,3 +32,14 @@ The application is built using HTML, CSS, JavaScript and local storage. The appl
 
 
 -----------------------Happy Shipments-------------------------------------------------------------------
+
+
+![image](https://user-images.githubusercontent.com/121658198/216406112-1fe3cae5-dad1-442f-b9fc-fb394efcfd5f.png)
+
+![image](https://user-images.githubusercontent.com/121658198/216406463-795cd141-81e5-4917-bf7c-af41b7e3c3ef.png)
+
+![image](https://user-images.githubusercontent.com/121658198/216408493-fa8df5ed-a553-4304-8b2a-fe8b28faeb70.png)
+
+![image](https://user-images.githubusercontent.com/121658198/216411557-6e71f13b-dfa4-4bae-a5a8-d4ba06bb84e5.png)
+
+
